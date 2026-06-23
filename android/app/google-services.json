@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834072096711",
+    "project_id": "zeroscroll-da832",
+    "storage_bucket": "zeroscroll-da832.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834072096711:android:523f916947e772f73d33e2",
+        "android_client_info": {
+          "package_name": "com.zeroscroll.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGRKptq3FhRyR9VXMSTxAqbBGKSUzB6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
